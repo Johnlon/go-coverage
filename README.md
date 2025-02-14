@@ -1,4 +1,4 @@
-# go-test-coverage
+# go-coverage
 
 [![test](https://github.com/vladopajic/go-test-coverage/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/vladopajic/go-test-coverage/actions/workflows/test.yml)
 [![action-test](https://github.com/vladopajic/go-test-coverage/actions/workflows/action-test.yml/badge.svg?branch=main)](https://github.com/vladopajic/go-test-coverage/actions/workflows/action-test.yml)
